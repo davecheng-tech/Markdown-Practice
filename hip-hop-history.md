@@ -73,17 +73,9 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
 
-**Code Block Example (imaginary “beat code”):**  
-
-```
-Sample("James Brown Funky Drummer")
-Loop(break=8)
-AddLayer("Jazz Horn Sample")
-Drop808("Kick + Snare")
-```
----
-
 ## 6. Regional Diversity in the Golden Age  
+
+![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
 | Region   | Key Artists            | Notable Albums                  |  
 |----------|------------------------|---------------------------------|  
@@ -91,10 +83,6 @@ Drop808("Kick + Snare")
 | West Coast | Tupac, N.W.A., Ice Cube | *All Eyez on Me*, *Straight Outta Compton* |  
 | Midwest   | Common, Bone Thugs-N-Harmony | *Resurrection*, *E. 1999 Eternal* |  
 | South     | Outkast, Geto Boys    | *Southernplayalisticadillacmuzik* |  
-
-**Image Placeholder:** _Insert map of U.S. hip hop regions here._  
-
----
 
 ## 7. Transition to the 2000s  
 
@@ -104,39 +92,16 @@ The industry shifted towards commercialization, with artists like **Jay-Z** and 
 - Positives: Greater mainstream recognition, global spread of hip hop.  
 - Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
----
-
 ## 8. Modern Hip Hop (Brief Overview)  
 
-While many fans critique modern trap and pop-rap for its repetitiveness, artists like **Kendrick Lamar** have preserved a commitment to lyrical depth.  
-- *good kid, m.A.A.d city* (2012) and *To Pimp a Butterfly* (2015) are widely hailed as modern classics.  
+![Kendrick Lamar](https://i.imgur.com/GFKOYTV.jpg)
+
+While many fans critique modern trap and pop-rap for its repetitiveness, artists like [Kendrick Lamar](https://youtu.be/Uly-g3IYeuQ) have preserved a commitment to lyrical depth.  *good kid, m.A.A.d city* (2012) and *To Pimp a Butterfly* (2015) are widely hailed as modern classics.  
 
 > “If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
 
-**Image Placeholder:** _Insert photo of Kendrick Lamar performing live here._  
-
----
-
 ## 9. Legacy of Hip Hop  
 
-Hip hop remains a powerful voice of marginalized communities.  
-It has influenced fashion, language, politics, and even global movements.  
+Hip hop remains a powerful voice of marginalized communities.   It has influenced fashion, language, politics, and even global movements.  
 
 Today, while some argue hip hop has become too commercialized, the **roots of authenticity and innovation** established in the 1970s–1990s continue to inspire new generations.  
-
----
-
-## 10. Conclusion  
-
-Hip hop began as a voice for the unheard in the Bronx and exploded into a worldwide cultural movement.  
-From the raw block parties of Kool Herc to the poetic genius of Nas and Tupac, hip hop’s **Golden Age** remains a defining moment in music history.  
-
-**Final Thoughts:**  
-Hip hop is not just music—it is a lens into society, a rhythm of resistance, and a constant reinvention of culture.  
-
-Line breaks are simple, too.  
-Like this.  
-
-And that’s it.  
-
----  
