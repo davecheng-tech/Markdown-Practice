@@ -10,23 +10,20 @@ It encompasses four main elements:
 
 Together, these four pillars shaped a global cultural force. Today, hip hop is one of the most influential musical genres worldwide, though many argue that its commercial evolution has diluted some of its original authenticity.  
 
----
-
 ## 2. The Birth of Hip Hop (1970s)  
 
-Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as **Kool Herc** pioneered the technique of isolating and looping the *breakbeat* from funk and soul records.  
+Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the *breakbeat* from funk and soul records.  
+
 This extended drum section became the foundation for MCs to hype up the crowd.  
 
-> “Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D  
+> “Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 **Key Figures of the 1970s:**  
-1. Kool Herc – credited with extending the break.  
-2. Afrika Bambaataa – spread hip hop culture through the Universal Zulu Nation.  
-3. Grandmaster Flash – innovated DJ techniques like scratching and cutting.  
+1. [Kool Herc](https://youtu.be/10C-Q3NIlzU) – credited with extending the break.  
+2. [Afrika Bambaataa](https://youtu.be/9J3lwZjHenA) – spread hip hop culture through the Universal Zulu Nation.  
+3. [Grandmaster Flash](https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting.  
 
-**Image Placeholder:** _Insert photo of Kool Herc at a block party here._  
-
----
+![DJ Kool Herc](https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2011/6/7/1307462447332/DJ-Kool-Herc-007.jpg)
 
 ## 3. The Old School Era (Early 1980s)  
 
