@@ -33,14 +33,6 @@ As hip hop gained traction, artists began recording tracks commercially.
 - [Run-DMC](https://youtu.be/l-O5IHVhWj0) fused rock and rap, creating crossover hits.  
 - [LL Cool J](https://youtu.be/vimZj8HW0Kg) and [Beastie Boys](https://youtu.be/07Y0cy-nvAg) brought hip hop to MTV audiences.  
 
-**Nested List Example:**  
-- Influences  
-  - Funk (James Brown, Parliament-Funkadelic)  
-  - Disco (extended breaks and party atmosphere)  
-  - Jamaican sound system culture  
-    - Dub mixing  
-    - Toasting  
-
 ## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
 ![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
