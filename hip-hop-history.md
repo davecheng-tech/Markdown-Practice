@@ -1,8 +1,7 @@
 # The History of Hip Hop Music  
 
 ## 1. Introduction  
-Hip hop is more than just a genre of music. It is a cultural movement that began in the **Bronx, New York City** in the early 1970s.  
-It encompasses four main elements:  
+Hip hop is more than just a genre of music. It is a cultural movement that began in the **Bronx, New York City** in the early 1970s. It encompasses four main elements:  
 - **MCing (Rapping)**  
 - **DJing (Turntablism)**  
 - **Breakdancing (B-boying)**  
