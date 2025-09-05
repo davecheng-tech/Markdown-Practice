@@ -78,10 +78,10 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 | Region   | Key Artists            | Notable Albums                  |  
 |----------|------------------------|---------------------------------|  
-| East Coast | Nas, Biggie, Wu-Tang Clan | *Illmatic*, *Ready to Die*, *36 Chambers* |  
-| West Coast | Tupac, N.W.A., Ice Cube | *All Eyez on Me*, *Straight Outta Compton* |  
-| Midwest   | Common, Bone Thugs-N-Harmony | *Resurrection*, *E. 1999 Eternal* |  
-| South     | Outkast, Geto Boys    | *Southernplayalisticadillacmuzik* |  
+| East Coast | Nas, Biggie, Wu-Tang Clan | [Illmatic](https://www.discogs.com/master/20148-Nas-Illmatic), [Ready to Die](https://www.discogs.com/master/57970-The-Notorious-BIG-Ready-To-Die), [36 Chambers](https://www.discogs.com/master/25303-Wu-Tang-Clan-Enter-The-Wu-Tang-36-Chambers) |  
+| West Coast | Tupac, N.W.A., Ice Cube | [All Eyez on Me](https://www.discogs.com/master/84819-2Pac-All-Eyez-On-Me), [Straight Outta Compton](https://www.discogs.com/master/26117-NWA-Straight-Outta-Compton) |  
+| Midwest   | Common, Bone Thugs-N-Harmony | [Resurrection](https://www.discogs.com/master/32375-Common-Sense-Resurrection), [E. 1999 Eternal](https://www.discogs.com/master/122350-Bone-Thugs-N-Harmony-E-1999-Eternal) |  
+| South     | Outkast, Geto Boys    | [Southernplayalisticadillacmuzik](https://www.discogs.com/master/26075-OutKast-Southernplayalisticadillacmuzik) |  
 
 ## 7. Transition to the 2000s  
 
