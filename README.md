@@ -1,4 +1,5 @@
-# Markdown-Practice
+# Markdown Practice
+## Recreate the History of Hip Hop Music
 Try to recreate [this file](hip-hop-history.md) on the history of hip hop music by using raw Markdown syntax. Challenge yourself by by avoiding WYSIWYG ("what you see is what you get") editors like StackEdit.io and instead learning the **proper syntax** manually.
 
 The raw text (copy and paste) is provided for you below:
@@ -106,3 +107,6 @@ Today, while some argue hip hop has become too commercialized, the roots of auth
 ```
 
 The finished version of the file is [here](hip-hop-history.md).
+
+## Additional Tricky Examples
+This [link](tricky-examples.md) has five more tricky examples of Markdown formatted text. Can you re-create them faithfully without looking up the syntax?
