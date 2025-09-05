@@ -23,7 +23,7 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 2. [Afrika Bambaataa](https://youtu.be/9J3lwZjHenA) – spread hip hop culture through the Universal Zulu Nation.  
 3. [Grandmaster Flash](https://youtu.be/PobrSpMwKk4) – innovated DJ techniques like scratching and cutting.  
 
-![DJ Kool Herc](https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2011/6/7/1307462447332/DJ-Kool-Herc-007.jpg)
+![DJ Kool Herc](https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2011/6/7/1307462447332/DJ-Kool-Herc-007.jpg?width=620&dpr=2&s=none&crop=none)
 
 ## 3. The Old School Era (Early 1980s)  
 
