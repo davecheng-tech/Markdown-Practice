@@ -37,6 +37,8 @@ As hip hop gained traction, artists began recording tracks commercially.
 
 ![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
 
+> “I never sleep, ’cause sleep is the cousin of death.” – Nas, *N.Y. State of Mind*  
+
 The **Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
@@ -50,7 +52,6 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 - **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
 - **Ice Cube** and **Dr. Dre** – pushed West Coast sound into the mainstream.  
 
-> “I never sleep, ’cause sleep is the cousin of death.” – Nas, *N.Y. State of Mind*  
 
 ## 5. Elements of Style  
 
