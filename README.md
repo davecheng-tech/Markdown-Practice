@@ -112,3 +112,5 @@ Hip hop remains a powerful voice of marginalized communities. It has influenced 
 
 Today, while some argue hip hop has become too commercialized, the roots of authenticity and innovation established in the 1970s–1990s continue to inspire new generations.  
 ```
+
+The finished version of the file is [here](hip-hop-history.md).
