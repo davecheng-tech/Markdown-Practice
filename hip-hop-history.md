@@ -92,13 +92,15 @@ The industry shifted towards commercialization, with artists like **Jay-Z** and 
 - Positives: Greater mainstream recognition, global spread of hip hop.  
 - Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
-## 8. Modern Hip Hop (Brief Overview)  
+## 8. Modern Hip Hop
 
 ![Kendrick Lamar](https://i.imgur.com/GFKOYTV.jpg)
 
-While many fans critique modern trap and pop-rap for its repetitiveness, artists like [Kendrick Lamar](https://youtu.be/Uly-g3IYeuQ) have preserved a commitment to lyrical depth.  *good kid, m.A.A.d city* (2012) and *To Pimp a Butterfly* (2015) are widely hailed as modern classics.  
+> “If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar
 
-> “If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
+While many fans critique modern [trap](https://youtu.be/zKicD86F7KA) and [pop-rap](https://youtu.be/GxgqpCdOKak) for its repetitiveness, artists like [Kendrick Lamar](https://youtu.be/Uly-g3IYeuQ) have preserved a commitment to lyrical depth.  *good kid, m.A.A.d city* (2012) and *To Pimp a Butterfly* (2015) are widely hailed as modern classics.  
+
+Kendrick also made history in 2018 when his album *DAMN.* won the **Pulitzer Prize for Music** — making him the **first and only rapper ever to receive this honour**. This recognition was groundbreaking, as it placed hip hop alongside classical and jazz works that traditionally dominate the award, further cementing its cultural legitimacy and artistic value.  
 
 ## 9. Legacy of Hip Hop  
 
