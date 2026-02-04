@@ -98,12 +98,6 @@ Kendrick Lamar (image link: https://i.imgur.com/GFKOYTV.jpg)
 While many fans critique modern trap and pop-rap for its repetitiveness, artists like Kendrick Lamar have preserved a commitment to lyrical depth. good kid, m.A.A.d city (2012) and To Pimp a Butterfly (2015) are widely hailed as modern classics.  
 
 Kendrick also made history in 2018 when his album DAMN. won the Pulitzer Prize for Music — making him the first and only rapper ever to receive this honour. This recognition was groundbreaking, as it placed hip hop alongside classical and jazz works that traditionally dominate the award, further cementing its cultural legitimacy and artistic value.  
-
-9. Legacy of Hip Hop  
-
-Hip hop remains a powerful voice of marginalized communities. It has influenced fashion, language, politics, and even global movements.  
-
-Today, while some argue hip hop has become too commercialized, the roots of authenticity and innovation established in the 1970s–1990s continue to inspire new generations.  
 ```
 
 The finished version of the file is [here](hip-hop-history.md).
